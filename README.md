@@ -24,5 +24,3 @@ I do a lot of graphics programming, embedded systems, and hardware design. I wri
 ---
 
 If you're working on something interesting in systems programming or hardware, feel free to reach out.
-
----
