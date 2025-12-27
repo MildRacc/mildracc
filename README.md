@@ -22,3 +22,7 @@ I do a lot of graphics programming, embedded systems, and hardware design. I wri
 ---
 
 If you're working on something interesting in systems programming or hardware, feel free to reach out.
+
+---
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
