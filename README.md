@@ -1,6 +1,6 @@
 # Hey, I'm MildRacc
 
-I write systems-level code and work on low-level stuff—graphics, embedded systems, hardware design. Most of my work is in Rust and C/C++. Pretty much all my projects come from either wanting to understand how something works or needing a tool that doesn't exist yet.
+I write systems-level code and work on low-level stuff: graphics, embedded systems, hardware design. Most of my work is in Rust and C/C++. Pretty much all my projects come from either wanting to understand how something works or needing a tool that doesn't exist yet.
 
 Everything I make is open-source. I'm a strong believer that hardware, software, and firmware should all have open-source alternatives.
 
