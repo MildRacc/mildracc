@@ -1,12 +1,12 @@
 # Hey, I'm MildRacc
 
-I write systems-level code and work on low-level stuff: graphics, embedded systems, hardware design. Most of my work is in Rust and C/C++. Pretty much all my projects come from either wanting to understand how something works or needing a tool that doesn't exist yet.
+I write systems-level code and work on low-level stuff: graphics, embedded systems, hardware. Most of my work is in Rust and C/C++. Pretty much all my projects come from either wanting to understand how something works or needing a tool that doesn't exist yet.
 
-Everything I make is open-source. I'm a strong believer that hardware, software, and firmware should all have open-source alternatives.
+Everything I make is open-source. I'm a strong believer that all hardware, software, and firmware should have open-source alternatives.
 
 ## Projects
 
-**[ShaderShader](https://github.com/MildRacc/shadershader)** - Live GLSL shader editor  
+**[ShaderShader](https://github.com/MildRacc/shadershader)** - Live OpenGL shader editor  
 Made this while ricing my Linux setup. Wanted animated wallpapers without killing performance, so I built a simple shader playground that can run as a desktop background.
 
 **[OpenSteamController-Continued](https://github.com/MichaelZaugg/OpenSteamController-Continued)** - Contributor  
@@ -23,4 +23,4 @@ I do a lot of graphics programming, embedded systems, and hardware design. I wri
 
 ---
 
-If you're working on something interesting in systems programming or hardware, feel free to reach out.
+Feel free to reach out.
