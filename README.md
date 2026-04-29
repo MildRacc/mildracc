@@ -4,6 +4,8 @@ I write systems-level code and work on low-level stuff: graphics, embedded syste
 
 Everything I make is open-source. I'm a strong believer that all hardware, software, and firmware should have open-source alternatives.
 
+**(Please do not expect frequent updates to my GitHub repositories. I have begun hosting my own private git server for data privacy reasons, and will therefore not frequently push commits to GitHub)**
+
 ## Projects
 
 **[ShaderShader](https://github.com/MildRacc/shadershader)** - Live OpenGL shader editor  
@@ -14,6 +16,9 @@ Reverse engineered firmware, wrote custom Rust firmware, designed the PCB, and u
 
 **[4cast](https://github.com/MildRacc/fourcast)** - LSTM trainer and runner written from scratch in Rust  
 I wrote this after a data science internship where I was building LSTM models in Python. Wanted to actually understand how they work, so I implemented the whole thing—backprop, optimization, inference. No ML libraries, just matrix operations.
+
+**[MildVR](https://github.com/MildRacc/MildVR)** - Open-source VR headset (In progress)  
+I am displeased with the current state of the VR headset market, so I'm designing a VR headset with inside-out tracking, and wireless video streaming, based on the RK3588.
 
 ## What I Work With
 
