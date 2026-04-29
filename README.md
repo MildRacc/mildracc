@@ -1,4 +1,4 @@
-# Hey, I'm MildRacc
+# Hello
 
 I write systems-level code and work on low-level stuff: graphics, embedded systems, hardware. Most of my work is in Rust and C/C++. Pretty much all my projects come from either wanting to understand how something works or needing a tool that doesn't exist yet.
 
